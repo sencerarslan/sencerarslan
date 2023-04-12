@@ -4,9 +4,8 @@
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/sencerarslan/"><img src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" align="left" width="300"></a> <br/>  
-🔭 I'm currently learning React. <br/>  
 👀 I'm interested in frontend development.<br/>  
-❓ Ask me about anything related to CSS.<br/>  
+❓ Ask me about anything related to CSS & JS.<br/>  
 ⚡ How to reach me <a href="https://www.linkedin.com/in/sencerarslan/">Linkedin</a><br/>  <br/>  
 <a href="https://www.linkedin.com/in/sencerarslan/"><img src="https://komarev.com/ghpvc/?username=sencerarslan&&style=flat-square"/></a>
  </div>
